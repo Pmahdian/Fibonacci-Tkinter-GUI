@@ -3,8 +3,17 @@
 
 ![Fibonacci with Tkinter](https://img.shields.io/badge/Python-Tkinter-green) ![Project Version](https://img.shields.io/badge/Version-1.0-blue)
 
+
 ## 📌 Project Introduction
 This project is a simple graphical application that generates and displays the Fibonacci sequence using Python's Tkinter library. The program allows users to input a number and view the Fibonacci sequence up to that term.
+
+
+
+## 🖼 App Screenshot
+Here is a preview of the application:
+
+![App Screenshot](fibo-app.png)
+
 
 ## ✨ Features
 - Simple and intuitive GUI
