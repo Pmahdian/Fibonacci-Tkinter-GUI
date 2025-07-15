@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.idea/
+
+# System files
+.DS_Store
